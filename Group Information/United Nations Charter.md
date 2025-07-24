@@ -1,14 +1,15 @@
 # Charter of the United Nations Community 
 
 <p align="center">
-  *With the intention to build an ever better, ever stronger and ever more developed international community, and to continue the success of the Ro-Nation Community founded in 2012 and continued ever since, the United Nations is established by the community, for the community, to provide a structure for international relations, with the aspirations of our predecessors firmly in mind.*
+  With the intention to build an ever better, ever stronger and ever more developed international community, and to continue the success of the Ro-Nation Community founded in 2012 and continued ever since, the United Nations is established by the community, for the community, to provide a structure for international relations, with the aspirations of our predecessors firmly in mind.
 </p>
 
 
-CHAPTER I: ORGANS
+# CHAPTER I: ORGANS
 
-The established, principal organs of the United Nations shall be a General Assembly, a Security Council, an International Court of Justice and a Secretariat.
-Subsidiary organs may be founded, disbanded or be put in a status of freeze as deemed necessary in accordance with the appropriate procedures laid out in this Charter..
+I. The established, principal organs of the United Nations shall be a General Assembly, a Security Council, an International Court of Justice and a Secretariat.
+
+II. Subsidiary organs may be founded, disbanded or be put in a status of freeze as deemed necessary in accordance with the appropriate procedures laid out in this Charter..
 
 
 CHAPTER II: MEMBERSHIP
