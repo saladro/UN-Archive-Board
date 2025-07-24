@@ -1,5 +1,6 @@
 # Charter of the United Nations Community 
 
+
 <p align="center">
   With the intention to build an ever better, ever stronger and ever more developed international community, and to continue the success of the Ro-Nation Community founded in 2012 and continued ever since, the United Nations is established by the community, for the community, to provide a structure for international relations, with the aspirations of our predecessors firmly in mind.
 </p>
@@ -7,22 +8,32 @@
 
 # CHAPTER I: ORGANS
 
+
 I. The established, principal organs of the United Nations shall be a General Assembly, a Security Council, an International Court of Justice and a Secretariat.
 
 II. Subsidiary organs may be founded, disbanded or be put in a status of freeze as deemed necessary in accordance with the appropriate procedures laid out in this Charter..
 
 
-CHAPTER II: MEMBERSHIP
+# CHAPTER II: MEMBERSHIP
 
-Membership in the United Nations is open to all ro-nations who have a minimum of 50 members in their ROBLOX group and accept the obligations contained in the present Charter and, in the judgement of the Organization, are able and willing to carry out these obligations. They must also have the ROBLOX group name to resemble that of the nation they are applying for. However there are different minimum requirement standards for fictional nations found in Part III.
-The admission of any such state to membership in the United Nations will be affected by a decision of the General Assembly and shall require a simple majority there.
-A fictional nation (defined as a nation that does not exist in the real world but is based on actual territory) must first be approved by the United Nations General Assembly. If approved, the nation’s application will then be sent to the United Nations Security Council  for a general vote.
-A nation replacing an existing nation on the Security Council must be approved, after a vote of the General Assembly, by the Security Council. That new member state will take the existing nation’s seat in the Security Council.
-The Organization shall ensure that states which are not Members of the United Nations act in accordance with these Principles so far as may be necessary for the maintenance of international peace and security.
-A nation can only be formally removed from the United Nations by other member states for inactivity, failing to meet membership requirements, and being allied to two or more United Nations groups or Ro-nation hubs. Any bill removing nations for such a reason would require ⅔ of the vote in both the General Assembly and Security Council. Nations may also be removed for cyber crime violations at the discretion of group administration (more details found in Chapter VII).
-The membership of a nation can be suspended with a max of one month (30 days) suspension. For it to be presented to either chamber, it would first have to be approved by the International Court of Justice and provide a clear and valid reason for the motion of a suspension. Once approved, it would require ⅔ of the vote in both the General Assembly and Security Council.
 
-CHAPTER III: THE GENERAL ASSEMBLY
+I. Membership in the United Nations is open to all ro-nations who have a minimum of 50 members in their ROBLOX group and accept the obligations contained in the present Charter and, in the judgement of the Organization, are able and willing to carry out these obligations. They must also have the ROBLOX group name to resemble that of the nation they are applying for. However there are different minimum requirement standards for fictional nations found in Part III.
+
+II. The admission of any such state to membership in the United Nations will be affected by a decision of the General Assembly and shall require a simple majority there.
+
+III. A fictional nation (defined as a nation that does not exist in the real world but is based on actual territory) must first be approved by the United Nations General Assembly. If approved, the nation’s application will then be sent to the United Nations Security Council  for a general vote.
+
+IV. A nation replacing an existing nation on the Security Council must be approved, after a vote of the General Assembly, by the Security Council. That new member state will take the existing nation’s seat in the Security Council.
+
+V. The Organization shall ensure that states which are not Members of the United Nations act in accordance with these Principles so far as may be necessary for the maintenance of international peace and security.
+
+VI. A nation can only be formally removed from the United Nations by other member states for inactivity, failing to meet membership requirements, and being allied to two or more United Nations groups or Ro-nation hubs. Any bill removing nations for such a reason would require ⅔ of the vote in both the General Assembly and Security Council. Nations may also be removed for cyber crime violations at the discretion of group administration (more details found in Chapter VII).
+
+VII. The membership of a nation can be suspended with a max of one month (30 days) suspension. For it to be presented to either chamber, it would first have to be approved by the International Court of Justice and provide a clear and valid reason for the motion of a suspension. Once approved, it would require ⅔ of the vote in both the General Assembly and Security Council.
+
+
+# CHAPTER III: THE GENERAL ASSEMBLY
+
 
 The General Assembly shall consist of all the Members of the United Nations.
 Each Member shall have not more than four representatives in the General Assembly and shall have one collective vote.
