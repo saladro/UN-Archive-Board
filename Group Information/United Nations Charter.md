@@ -1,10 +1,7 @@
 # Charter of the United Nations Community 
 
 <p align="center">
-  With the intention to build an ever better, ever stronger and ever more developed international community, 
-  and to continue the success of the Ro-Nation Community founded in 2012 and continued ever since, the United 
-  Nations is established by the community, for the community, to provide a structure for international relations, 
-  with the aspirations of our predecessors firmly in mind.*
+  *With the intention to build an ever better, ever stronger and ever more developed international community, and to continue the success of the Ro-Nation Community founded in 2012 and continued ever since, the United Nations is established by the community, for the community, to provide a structure for international relations, with the aspirations of our predecessors firmly in mind.*
 </p>
 
 
